@@ -80,7 +80,7 @@ function Projects() {
                 isBlog={false}
                 title="Self-Restaurent-Desktop-App"
                 description="this desktop app is that i build for my brother restaurant to manage his orders and products , i build it  with reactJs electronJs , nodejs , mongoDB "
-                ghLink="https://github.com/taha-yassine-romdhane/Academic-Project-Property-Finder"
+                ghLink="https://github.com/taha-yassine-romdhane/Self-Restaurent-Desktop-App"
 
             />
           </Col>
